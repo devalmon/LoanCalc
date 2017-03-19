@@ -29,6 +29,7 @@
 		8A378A791E7B13A600F92F1F /* SecondSceneVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondSceneVC.swift; sourceTree = "<group>"; };
 		8A378A7B1E7B13B700F92F1F /* ThirdSceneVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdSceneVC.swift; sourceTree = "<group>"; };
 		8A378A7D1E7C1DE200F92F1F /* binarySearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = binarySearch.playground; sourceTree = "<group>"; };
+		8A378A7E1E7E6D5700F92F1F /* optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optional.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 				8A31394D1E76976C005B9780 /* MyPlayground.playground */,
 				8A2F230C1E7970D1006FDC70 /* circle.playground */,
 				8A378A7D1E7C1DE200F92F1F /* binarySearch.playground */,
+				8A378A7E1E7E6D5700F92F1F /* optional.playground */,
 			);
 			path = LoanCalc;
 			sourceTree = "<group>";

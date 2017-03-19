@@ -56,11 +56,10 @@ let randomNo = arr[randomIndex]
 
 countOccurrences(randomNo, inArray: arr)
 
+var tuple = (maxPodtyagivanie: 11, maxOtzhim: 12, maxPrisyad: 13)
+let tmp = tuple.maxPodtyagivanie
+tuple.maxPodtyagivanie = tuple.maxPrisyad
+tuple.maxPrisyad = tmp
 
-
-
-
-
-
-
+print(tuple)
 
