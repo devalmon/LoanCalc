@@ -90,7 +90,7 @@ var fun: Character = "Ъ"
 let combo: Character = "ы\u{301}\u{20dd}"
 var funString = "my test string with super character \(combo)"
 
-(funString as NSString).length
+//(funString as NSString).length
 funString.hasPrefix("m")
 
 
