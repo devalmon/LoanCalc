@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A1CD92C1E844C1900CF3D24 /* ForthSceneVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1CD92B1E844C1900CF3D24 /* ForthSceneVC.swift */; };
 		8A31393C1E759133005B9780 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A31393B1E759133005B9780 /* AppDelegate.swift */; };
 		8A3139411E759133005B9780 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A31393F1E759133005B9780 /* Main.storyboard */; };
 		8A3139431E759133005B9780 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A3139421E759133005B9780 /* Assets.xcassets */; };
@@ -17,7 +18,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A1CD92B1E844C1900CF3D24 /* ForthSceneVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForthSceneVC.swift; sourceTree = "<group>"; };
 		8A2F230C1E7970D1006FDC70 /* circle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = circle.playground; sourceTree = "<group>"; };
+		8A3070571E8652C10082F506 /* switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = switch.playground; sourceTree = "<group>"; };
+		8A3070581E8693180082F506 /* functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = functions.playground; sourceTree = "<group>"; };
 		8A3139381E759133005B9780 /* LoanCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoanCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A31393B1E759133005B9780 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A3139401E759133005B9780 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -32,6 +36,9 @@
 		8A378A7E1E7E6D5700F92F1F /* optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optional.playground; sourceTree = "<group>"; };
 		8A93B40B1E7EBD6400C85459 /* lessons.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lessons.playground; sourceTree = "<group>"; };
 		8A93B40C1E7ECB3900C85459 /* arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = arrays.playground; sourceTree = "<group>"; };
+		8AB536461E86D4120040D973 /* closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = closures.playground; sourceTree = "<group>"; };
+		8AB536471E88243A0040D973 /* Enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enums.playground; sourceTree = "<group>"; };
+		8AB536481E890D590040D973 /* EnumHomework.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EnumHomework.playground; sourceTree = "<group>"; };
 		8ADD3ABD1E829A650003228E /* dict.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = dict.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,6 +76,7 @@
 				8A378A771E7B138300F92F1F /* FirstSceneVC.swift */,
 				8A378A791E7B13A600F92F1F /* SecondSceneVC.swift */,
 				8A378A7B1E7B13B700F92F1F /* ThirdSceneVC.swift */,
+				8A1CD92B1E844C1900CF3D24 /* ForthSceneVC.swift */,
 				8A31393F1E759133005B9780 /* Main.storyboard */,
 				8A3139421E759133005B9780 /* Assets.xcassets */,
 				8A3139441E759133005B9780 /* LaunchScreen.storyboard */,
@@ -80,6 +88,11 @@
 				8A93B40B1E7EBD6400C85459 /* lessons.playground */,
 				8A93B40C1E7ECB3900C85459 /* arrays.playground */,
 				8ADD3ABD1E829A650003228E /* dict.playground */,
+				8A3070571E8652C10082F506 /* switch.playground */,
+				8A3070581E8693180082F506 /* functions.playground */,
+				8AB536461E86D4120040D973 /* closures.playground */,
+				8AB536471E88243A0040D973 /* Enums.playground */,
+				8AB536481E890D590040D973 /* EnumHomework.playground */,
 			);
 			path = LoanCalc;
 			sourceTree = "<group>";
@@ -159,6 +172,7 @@
 			files = (
 				8A378A7A1E7B13A600F92F1F /* SecondSceneVC.swift in Sources */,
 				8A378A781E7B138300F92F1F /* FirstSceneVC.swift in Sources */,
+				8A1CD92C1E844C1900CF3D24 /* ForthSceneVC.swift in Sources */,
 				8A378A7C1E7B13B700F92F1F /* ThirdSceneVC.swift in Sources */,
 				8A31393C1E759133005B9780 /* AppDelegate.swift in Sources */,
 			);
